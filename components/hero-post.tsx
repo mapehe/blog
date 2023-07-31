@@ -32,7 +32,7 @@ const HeroPost = ({ title, coverImage, date, excerpt, slug }: Props) => {
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4 caslon">{excerpt}</p>
         </div>
       </div>
     </section>
