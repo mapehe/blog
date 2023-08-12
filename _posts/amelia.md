@@ -1,5 +1,5 @@
 ---
-title: 'Amalia'
+title: 'Amelia'
 excerpt: 'Amelia sat there, naïve and perfect; prepared to conquer the entire world alone.'
 coverImage: '/assets/blog/amelia/cover.png'
 date: '2023-08-06T04:20:00.000Z'
