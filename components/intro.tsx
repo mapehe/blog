@@ -6,7 +6,7 @@ const Intro = () => {
       <h1 className="text-5xl md:text-8xl font-bold leading-tight md:pr-8">
         mapehe's short fiction.
       </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
+      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8 caslon">
         My name is Matias Heikkilä and this is my personal website. In August
         2023, I decided to start writing one short piece of fiction every week
         and publish the stories here on Sundays. In case you want to reach out,
